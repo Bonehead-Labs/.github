@@ -15,6 +15,6 @@ Please view our repositories section for our available products, enjoy your stay
 https://bonehead-labs.itch.io/
 
 ## Socials
-https://www.youtube.com/@Bonehead-Labs
-https://x.com/Bonehead_Labs
+- https://www.youtube.com/@Bonehead-Labs
+- https://x.com/Bonehead_Labs
 
