@@ -1,18 +1,20 @@
 # Bonehead Labs
 ![Logo](https://github.com/Bonehead-Labs/.github/blob/main/bc9171fd-31f9-4b54-966c-7e2fd1a0afec.png)
-A Software lab developing video games and tools, and performing interesting research.
+Bonehead Labs is a software company that develops Video Games, Open Source & Premium tools, and performs Research and Analysis.
+This is the official github page for bonehead labs, where our publically available source code is accessible to our valued community.
+Please view our repositories section for our available products, enjoy your stay!
+
+# Official Links
 
 ## Website
 [Website Hosted on Github](https://bonehead-labs.github.io/BoneheadLabsSite/)
-
-## Games & Demos  
-This organization is the home of our **official game demos** — from small proof-of-concepts to early previews of upcoming commercial titles. We believe in sharing progress openly, so players can experience ideas as they evolve.
-
+## Play Our Games
 ### Steam
 [Link TBD]
 ### Itch.io
 https://bonehead-labs.itch.io/
 
-## Open Source Tools
+## Socials
+https://www.youtube.com/@Bonehead-Labs
+https://x.com/Bonehead_Labs
 
-## Research
