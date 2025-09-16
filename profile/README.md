@@ -7,7 +7,7 @@ Please view our repositories section for our available products, enjoy your stay
 # Official Links
 
 ## Website
-[Website Hosted on Github](https://bonehead-labs.github.io/BoneheadLabsSite/)
+https://boneheadlabs.org/
 ## Play Our Games
 ### Steam
 [Link TBD]
